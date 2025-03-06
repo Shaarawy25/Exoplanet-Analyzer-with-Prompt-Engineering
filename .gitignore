@@ -1,3 +1,7 @@
 .env
 A2venv
 __pycache__
+.gitignore
+.DS_Store
+Assignment2.pdf
+exoplanet_data.csv
